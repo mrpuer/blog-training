@@ -1,5 +1,6 @@
 {
   "name": "blog-training",
+  "homepage": "https://github.com/mrpuer/blog-training/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
