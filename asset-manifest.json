@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/mrpuer/blog-training/static/css/main.c26703b1.chunk.css",
-    "main.js": "/mrpuer/blog-training/static/js/main.8522f2cd.chunk.js",
-    "main.js.map": "/mrpuer/blog-training/static/js/main.8522f2cd.chunk.js.map",
-    "runtime-main.js": "/mrpuer/blog-training/static/js/runtime-main.945ded1a.js",
-    "runtime-main.js.map": "/mrpuer/blog-training/static/js/runtime-main.945ded1a.js.map",
-    "static/css/2.1bd2ab2f.chunk.css": "/mrpuer/blog-training/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.af6ceace.chunk.js": "/mrpuer/blog-training/static/js/2.af6ceace.chunk.js",
-    "static/js/2.af6ceace.chunk.js.map": "/mrpuer/blog-training/static/js/2.af6ceace.chunk.js.map",
-    "index.html": "/mrpuer/blog-training/index.html",
-    "precache-manifest.1d51fa577eaafe8ad383dc5ea7ec6610.js": "/mrpuer/blog-training/precache-manifest.1d51fa577eaafe8ad383dc5ea7ec6610.js",
-    "service-worker.js": "/mrpuer/blog-training/service-worker.js",
-    "static/css/2.1bd2ab2f.chunk.css.map": "/mrpuer/blog-training/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/css/main.c26703b1.chunk.css.map": "/mrpuer/blog-training/static/css/main.c26703b1.chunk.css.map",
-    "static/js/2.af6ceace.chunk.js.LICENSE.txt": "/mrpuer/blog-training/static/js/2.af6ceace.chunk.js.LICENSE.txt"
+    "main.css": "/blog-training/static/css/main.c26703b1.chunk.css",
+    "main.js": "/blog-training/static/js/main.1d9832ad.chunk.js",
+    "main.js.map": "/blog-training/static/js/main.1d9832ad.chunk.js.map",
+    "runtime-main.js": "/blog-training/static/js/runtime-main.991893d4.js",
+    "runtime-main.js.map": "/blog-training/static/js/runtime-main.991893d4.js.map",
+    "static/css/2.1bd2ab2f.chunk.css": "/blog-training/static/css/2.1bd2ab2f.chunk.css",
+    "static/js/2.af6ceace.chunk.js": "/blog-training/static/js/2.af6ceace.chunk.js",
+    "static/js/2.af6ceace.chunk.js.map": "/blog-training/static/js/2.af6ceace.chunk.js.map",
+    "index.html": "/blog-training/index.html",
+    "precache-manifest.706052562c3226b9e1919f78d7821e7a.js": "/blog-training/precache-manifest.706052562c3226b9e1919f78d7821e7a.js",
+    "service-worker.js": "/blog-training/service-worker.js",
+    "static/css/2.1bd2ab2f.chunk.css.map": "/blog-training/static/css/2.1bd2ab2f.chunk.css.map",
+    "static/css/main.c26703b1.chunk.css.map": "/blog-training/static/css/main.c26703b1.chunk.css.map",
+    "static/js/2.af6ceace.chunk.js.LICENSE.txt": "/blog-training/static/js/2.af6ceace.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.945ded1a.js",
+    "static/js/runtime-main.991893d4.js",
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.af6ceace.chunk.js",
     "static/css/main.c26703b1.chunk.css",
-    "static/js/main.8522f2cd.chunk.js"
+    "static/js/main.1d9832ad.chunk.js"
   ]
 }
